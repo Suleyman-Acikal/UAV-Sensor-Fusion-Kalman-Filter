@@ -21,4 +21,8 @@ The system collects raw data from MPU6050, QMC5883P, and BMP280 sensors using an
 
 
 
-https://github.com/user-attachments/assets/69147428-8806-4916-a165-7067dae42427
+
+
+https://github.com/user-attachments/assets/8ba98adf-74e8-4aa6-8aeb-0e3b30cfe1a2
+
+
