@@ -18,3 +18,7 @@ The system collects raw data from MPU6050, QMC5883P, and BMP280 sensors using an
 
 ## 👤 Author
 * **Süleyman Açıkal**
+
+
+
+https://github.com/user-attachments/assets/69147428-8806-4916-a165-7067dae42427
